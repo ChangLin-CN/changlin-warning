@@ -1,0 +1,24 @@
+{
+  "name": "changlin-warning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pb:npmr": "nrm use npm && npm run pb",
+    "pb": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChangLin-CN/changlin-warning.git"
+  },
+  "keywords": [
+    "warning"
+  ],
+  "author": "changlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChangLin-CN/changlin-warning/issues"
+  },
+  "homepage": "https://github.com/ChangLin-CN/changlin-warning#readme"
+}
